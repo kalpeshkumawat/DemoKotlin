@@ -1,0 +1,10 @@
+class UserProperty {
+
+  String name;
+  
+  UserProperty(String name){
+  
+  this.name = name;
+  }
+
+}
