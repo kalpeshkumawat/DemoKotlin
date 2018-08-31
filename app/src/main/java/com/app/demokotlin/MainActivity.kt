@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
         }
 
 
-        Toast.makeText(this, "Data $secondMaximumNumber",Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Git $secondMaximumNumber",Toast.LENGTH_LONG).show()
     }
 
 
