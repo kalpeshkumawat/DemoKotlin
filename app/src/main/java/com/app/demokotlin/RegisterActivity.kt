@@ -25,6 +25,7 @@ class RegisterActivity : AppCompatActivity(), View.OnClickListener {
         setContentView(R.layout.activity_register)
 
 
+jkhkkkkjhkkkhkhk
 
         iv_image.setOnClickListener(this)
         btn_register.setOnClickListener(this)
